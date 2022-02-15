@@ -1,3 +1,7 @@
 https://www.freecodecamp.org/news/scp-linux-command-example-how-to-ssh-file-transfer-from-remote-to-local/
 
 https://stackoverflow.com/questions/1346509/automate-scp-file-transfer-using-a-shell-script
+
+
+text inside text into linux -> link
+https://delightlylinux.wordpress.com/2016/12/14/hide-text-in-text-files-using-stegsnow/
