@@ -5,3 +5,4 @@ https://stackoverflow.com/questions/1346509/automate-scp-file-transfer-using-a-s
 
 text inside text into linux -> link
 https://delightlylinux.wordpress.com/2016/12/14/hide-text-in-text-files-using-stegsnow/
+https://pentesttools.net/hide-secret-messages-in-text-using-stegsnow-zero-width-characters/
